@@ -1,5 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-Isso não é algo profissional, é simplesmente um lugar onde guardo todas as minhas coisas, ideias, pensamentos, coisas que aprendi ou acho que aprendi, coisas que joguei, assisti, ouvi, todas as coisas que passam pelo meu cérebro e tenho vontade de escrever estão aqui, qual a usabilidade disso? Não sei, mas me faz bem.
+Esse é meu digital garden, aqui é onde guardo projetos, pensamentos e coisas que penso.
+
+## Tópicos
+
+[[tags/Dicionário\|Dicionário]]
+[[tags/Projetos\|Projetos]]
+[[tags/Sobre mim\|Sobre mim]]
+[[tags/Videogames\|Videogames]]
+[[tags/Filmes e Séries\|Filmes e Séries]]
+[[tags/Tecnologia\|Tecnologia]]
