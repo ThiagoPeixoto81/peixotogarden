@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dicionario/mindfulness/","noteIcon":""}
+{"dg-publish":true,"dg-home":null,"permalink":"/dicionario/mindfulness/","dgPassFrontmatter":true}
 ---
 
 tags: [[Tópicos/Dicionário\|Dicionário]]

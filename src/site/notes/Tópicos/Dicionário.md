@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topicos/dicionario/","noteIcon":""}
+{"dg-publish":true,"dg-home":null,"permalink":"/topicos/dicionario/","dgPassFrontmatter":true}
 ---
 
 [[Dicionário/Resiliência\|Resiliência]]
