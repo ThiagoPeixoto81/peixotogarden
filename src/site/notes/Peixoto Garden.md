@@ -6,9 +6,9 @@ Esse é meu digital garden, aqui é onde guardo projetos, pensamentos e coisas q
 
 ## Tópicos
 
-[[tags/Dicionário\|Dicionário]]
-[[tags/Projetos\|Projetos]]
-[[tags/Sobre mim\|Sobre mim]]
-[[tags/Videogames\|Videogames]]
-[[tags/Filmes e Séries\|Filmes e Séries]]
-[[tags/Tecnologia\|Tecnologia]]
+[[Tópicos/Dicionário\|Dicionário]]
+[[Tópicos/Projetos\|Projetos]]
+[[Tópicos/Sobre mim\|Sobre mim]]
+[[Tópicos/Videogames\|Videogames]]
+[[Tópicos/Filmes e Séries\|Filmes e Séries]]
+[[Tópicos/Tecnologia\|Tecnologia]]
