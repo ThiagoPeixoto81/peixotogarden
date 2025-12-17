@@ -38,6 +38,8 @@ Sinta-se a vontade para explorar todas as notas, isso não é algo performativo,
 
 [[Sobre mim/Estatísticas do meu 2025/Estatísticas do meu 2025\|Estatísticas do meu 2025]]
 
+[[Videogames/Dark souls é muito mais que um jogo/Dark souls é muito mais do que um jogo - Todo meu amor por esse jogo em uma nota.\|Dark souls é muito mais do que um jogo - Todo meu amor por esse jogo em uma nota.]]
+
 
 ## Outros lugares em que você pode me achar
 
