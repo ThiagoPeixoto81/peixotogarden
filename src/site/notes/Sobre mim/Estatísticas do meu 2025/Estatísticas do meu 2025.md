@@ -28,7 +28,7 @@ Agora indo para os jogos zerados, esse ano zerei uma quantidade bem maior que an
 
 Não vou falar de todos, pois estão na lista, mas vou listar meus 5 preferidos desse ano:
 
-- [**Dark souls: Remastered**](https://backloggd.com/u/peixotooo/review/3473872/) => Nem preciso dizer o quanto gosto desse jogo, é incrivel a experiência que tive, virou meu jogo favorito e me deu um ânimo diferente sobre coisas além de videogame. ([[Videogames/Dark souls é muito mais que um jogo/Dark souls é muito mais do que um jogo - Todo meu amor por esse jogo em uma nota.\|Dark souls é muito mais do que um jogo - Todo meu amor por esse jogo em uma nota.]])
+- [**Dark souls: Remastered**](https://backloggd.com/u/peixotooo/review/3473872/) => Nem preciso dizer o quanto gosto desse jogo, é incrivel a experiência que tive, virou meu jogo favorito e me deu um ânimo diferente sobre coisas além de videogame. ([[Videogames/Dark Souls/Dark souls é muito mais do que um jogo - Todo meu amor por esse jogo em uma nota.\|Dark souls é muito mais do que um jogo - Todo meu amor por esse jogo em uma nota.]])
 
 - [**Pokémon FireRed Version**](https://backloggd.com/u/peixotooo/review/2306921/) => Eu lembro com muito amor do período em que estava jogando esse jogo, foi numa época do ano em que a vida não estava tão legal, esse jogo foi um bom escape pra mim, fiquei viciado eu jogava e jogava e nem via a hora passar. Além disso, é muito satisfatório você conseguir zerar um jogo que quando você era criança você não conseguia de jeito nenhum.
 

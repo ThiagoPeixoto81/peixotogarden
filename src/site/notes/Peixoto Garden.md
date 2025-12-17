@@ -27,7 +27,7 @@ Sinta-se a vontade para explorar todas as notas, isso não é algo performativo,
 
 ## Últimos Posts
 
-[[Filmes e séries/peacemaker/Eu não consigo tirar Peacemaker da cabeça.\|Eu não consigo tirar Peacemaker da cabeça.]]
+[[Filmes e séries/Peacemaker/Eu não consigo tirar Peacemaker da cabeça.\|Eu não consigo tirar Peacemaker da cabeça.]]
 
 [[Projetos/Digital Garden/O que é um digital garden e porque acho daora a ideia de ter um.\|O que é um digital garden e porque acho daora a ideia de ter um.]]
 
@@ -36,11 +36,11 @@ Sinta-se a vontade para explorar todas as notas, isso não é algo performativo,
 
 ## Posts Favoritos
 
-[[Videogames/Primeira vez jogando o modo dinasty do NCAA Football 14 com Vanderbilt/Primeira vez jogando o modo dinasty do NCAA Football 14 com Vanderbilt - SEASON 1 e 2\|Primeira vez jogando o modo dinasty do NCAA Football 14 com Vanderbilt - SEASON 1 e 2]]
+[[Videogames/NCAA FOOTBALL 14/Primeira vez jogando o modo dinasty do NCAA Football 14 com Vanderbilt - SEASON 1 e 2\|Primeira vez jogando o modo dinasty do NCAA Football 14 com Vanderbilt - SEASON 1 e 2]]
 
 [[Sobre mim/Estatísticas do meu 2025/Estatísticas do meu 2025\|Estatísticas do meu 2025]]
 
-[[Videogames/Dark souls é muito mais que um jogo/Dark souls é muito mais do que um jogo - Todo meu amor por esse jogo em uma nota.\|Dark souls é muito mais do que um jogo - Todo meu amor por esse jogo em uma nota.]]
+[[Videogames/Dark Souls/Dark souls é muito mais do que um jogo - Todo meu amor por esse jogo em uma nota.\|Dark souls é muito mais do que um jogo - Todo meu amor por esse jogo em uma nota.]]
 
 
 ## Outros lugares em que você pode me achar
