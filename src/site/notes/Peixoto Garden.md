@@ -4,9 +4,11 @@
 
 ![logo.png](/img/user/imgs/logo.png)
 
-## Bem vindo ao Peixoto Garden!
+# Bem vindo ao Peixoto Garden!
 
 Eu me chamo Thiago Peixoto, sou técnico de TI e gosto muito de compartilhar meus conhecimentos e experiências com meus hobbys, você pode ver alguns deles na seção de tópicos.
+
+
 
 Sinta-se a vontade para explorar todas as notas, isso não é algo performativo, então não espere textos super complexos, é só um hobby para mim, escrevo sobre as coisas que gosto no meu tempo livre.
 
