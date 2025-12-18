@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/sobre-mim/estatisticas-do-meu-2025/estatisticas-do-meu-2025/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":null,"permalink":"/sobre-mim/estatisticas-do-meu-2025/estatisticas-do-meu-2025/","dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.767-03:00","updated":"2025-12-17T14:20:36.679-03:00"}
 ---
 
 tags: [[Tópicos/Sobre mim\|Sobre mim]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/filmes-e-series/peacemaker/eu-nao-consigo-tirar-peacemaker-da-cabeca/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":null,"permalink":"/filmes-e-series/peacemaker/eu-nao-consigo-tirar-peacemaker-da-cabeca/","dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.751-03:00","updated":"2025-12-17T14:22:45.676-03:00"}
 ---
 
 tags: [[Tópicos/Filmes e Séries\|Filmes e Séries]]

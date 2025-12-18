@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/topicos/videogames/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":null,"permalink":"/topicos/videogames/","dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.933-03:00","updated":"2025-12-17T14:40:46.361-03:00"}
 ---
 
 [[Videogames/Dark Souls/Dark souls é muito mais do que um jogo - Todo meu amor por esse jogo em uma nota.\|Dark souls é muito mais do que um jogo - Todo meu amor por esse jogo em uma nota.]]

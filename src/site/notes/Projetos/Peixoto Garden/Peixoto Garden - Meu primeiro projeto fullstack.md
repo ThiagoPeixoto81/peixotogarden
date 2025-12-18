@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/projetos/peixoto-garden/peixoto-garden-meu-primeiro-projeto-fullstack/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":null,"permalink":"/projetos/peixoto-garden/peixoto-garden-meu-primeiro-projeto-fullstack/","dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.756-03:00","updated":"2025-12-17T14:14:20.683-03:00"}
 ---
 
 tag: [[Tópicos/Projetos\|Projetos]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/videogames/ncaa-football-14/primeira-vez-jogando-o-modo-dinasty-do-ncaa-football-14-com-vanderbilt-season-1-e-2/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":null,"permalink":"/videogames/ncaa-football-14/primeira-vez-jogando-o-modo-dinasty-do-ncaa-football-14-com-vanderbilt-season-1-e-2/","dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.770-03:00","updated":"2025-12-17T14:22:14.388-03:00"}
 ---
 
 tags: [[Tópicos/Videogames\|Videogames]]

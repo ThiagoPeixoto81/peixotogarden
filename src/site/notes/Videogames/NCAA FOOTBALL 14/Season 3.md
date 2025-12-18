@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/videogames/ncaa-football-14/season-3/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":null,"permalink":"/videogames/ncaa-football-14/season-3/","dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.771-03:00","updated":"2025-12-17T14:22:26.455-03:00"}
 ---
 
 tags: [[Tópicos/Videogames\|Videogames]]

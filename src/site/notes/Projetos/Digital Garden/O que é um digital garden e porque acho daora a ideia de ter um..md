@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/projetos/digital-garden/o-que-e-um-digital-garden-e-porque-acho-daora-a-ideia-de-ter-um/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":null,"permalink":"/projetos/digital-garden/o-que-e-um-digital-garden-e-porque-acho-daora-a-ideia-de-ter-um/","dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.753-03:00","updated":"2025-12-17T14:14:31.064-03:00"}
 ---
 
 
