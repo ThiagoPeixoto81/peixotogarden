@@ -1,22 +1,22 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/videogames/dark-souls/dark-souls-e-muito-mais-do-que-um-jogo-todo-meu-amor-por-esse-jogo-em-uma-nota/","dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.768-03:00","updated":"2025-12-17T14:21:01.448-03:00"}
+{"dg-publish":true,"dg-home":null,"aliases":["coisas além de videogame."],"permalink":"/videogames/dark-souls/dark-souls-e-muito-mais-do-que-um-jogo-todo-meu-amor-por-esse-jogo-em-uma-nota/","dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.768-03:00","updated":"2025-12-18T14:33:28.806-03:00"}
 ---
 
 tags: [[Tópicos/Videogames\|Videogames]]
 
-# por que jogar um jogo difícil?
+# Por que jogar um jogo difícil?
 
 Eu sempre ouvi falar de dark souls durante todo o período da minha vida que me interessei por videogames, sempre as pessoas diziam que era um jogo difícil e que você morria varias vezes, eu me perguntava qual era o sentido de jogar algo onde eu não ia me diverti, eu só ia passar raiva, obvio todo jogo tem que ter sua dificuldade mesmo que minima mas tem que ter pra manter o jogador engajado, mas um jogo que é só dificuldade? não tem lógica.
 
 Porém, apesar disso eu sempre me senti minimamente conectado a dark souls mesmo que de maneira distante, eu sempre uma hora ou outra começava a ver alguns conteúdos sobre o jogo e a me questionar o que fazia ele tão especial? por que é um fenômeno tão grande? ainda não havia conectado os pontos, mas dark souls sempre estava lá presente sendo algo que apesar de eu querer eu me relutava a tentar.
 
-# o fim da relutância.
+# O fim da relutância.
 
 Esse ano tudo mudou. E começa de um jeito meio imbecil, a minha vontade de jogar dark souls esse ano começou porque eu reprovei na prova de direção do DETRAN. Eu reprovei e pensei em desistir de tirar a carta, porque na minha cabeça era muito difícil, mas então no meio desse pensamento eu comecei a perceber a recorrência dessa atitude na minha vida, sempre que algo ficava difícil eu desistia, simplesmente porque sim, eu não queria tentar, não queria passar por dificuldade, e nesse dia eu decidi acabar com isso, acabar com esse ciclo em **TODAS AS ÁREAS DA MINHA VIDA**, e foi ai que dark souls apareceu, eu precisava zerar esse jogo, eu precisava provar que eu ainda tinha [[Dicionário/Resiliência\|Resiliência]] em mim e foi esse o primeiro passo que dei para jogar o game, o fim da relutância.
 
-# o mundo é hostil e você precisa entender isso, logo de inicio
+# O mundo é hostil e você precisa entender isso, logo de inicio
 
-Desde o primeiro contato com dark souls, o jogo já te mostra que nesse mundo não há amparo, é bem comum você se assustar com o estado em que você encontra seu personagem, você começa como um [[Videogames/Dark Souls/Hollow\|Hollow]], que é um dos conceitos mais interessantes desse jogo. No começo do jogo você já enfrenta muitos desafios e desde o inicio você tem a impressão que você está em um mundo desolado por algo, o cenário inicial do jogo é cheio de hollows, eles batem a cabeça na parede e são loucos, eles não te atacam porém dá pra perceber que tem algo errado. No começo do jogo, no Asylum há duas coisas que acho interessante, que é o cara que te liberta da sua cela, o oscar e a aparição do asylum demon, onde o jogo inteligentemente te ensina uma lição que você vai ter que levar consigo durante o game principalmente na primeira playthrough que é que nem sempre você estará pronto para toda batalha e as vezes é melhor se equipar e ficar mais forte para enfrentar os obstáculos maiores.
+Desde o primeiro contato com dark souls, o jogo já te mostra que nesse mundo não há amparo, é bem comum você se assustar com o estado em que você encontra seu personagem, você começa como um [[Videogames/Dark Souls/O que é um hollow em Dark Souls.\|hollow]], que é um dos conceitos mais interessantes desse jogo. No começo do jogo você já enfrenta muitos desafios e desde o inicio você tem a impressão que você está em um mundo desolado por algo, o cenário inicial do jogo é cheio de hollows, eles batem a cabeça na parede e são loucos, eles não te atacam porém dá pra perceber que tem algo errado. No começo do jogo, no Asylum há duas coisas que acho interessante, que é o cara que te liberta da sua cela, o oscar e a aparição do asylum demon, onde o jogo inteligentemente te ensina uma lição que você vai ter que levar consigo durante o game principalmente na primeira playthrough que é que nem sempre você estará pronto para toda batalha e as vezes é melhor se equipar e ficar mais forte para enfrentar os obstáculos maiores.
 
 O asylum é uma boa introdução ao jogo, acho muito difícil alguém que nunca jogou o jogo ter começado e não ter morrido ao menos 1-2 vezes nesse lugar, mas daí já temos dimensão do que está por vim no jogo.
 

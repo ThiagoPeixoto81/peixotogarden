@@ -35,7 +35,7 @@ Sinta-se a vontade para explorar todas as notas, isso não é algo performativo,
 
 ## Posts Favoritos
 
-[[Videogames/NCAA FOOTBALL 14/Primeira vez jogando o modo dinasty do NCAA Football 14 com Vanderbilt - SEASON 1 e 2\|Primeira vez jogando o modo dinasty do NCAA Football 14 com Vanderbilt - SEASON 1 e 2]]
+[[Videogames/Dinasty - Vanderbilt/Primeira vez jogando o modo dinasty do NCAA Football 14 com Vanderbilt - SEASON 1 e 2\|Primeira vez jogando o modo dinasty do NCAA Football 14 com Vanderbilt - SEASON 1 e 2]]
 
 [[Sobre mim/Estatísticas do meu 2025/Estatísticas do meu 2025\|Estatísticas do meu 2025]]
 
