@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/videogames/dinasty-vanderbilt/dinasty-com-vanderbilt-ncaa-football-14-cfb-revamped/","dgPassFrontmatter":true,"created":"2025-12-22T13:29:38.609-03:00","updated":"2025-12-22T13:40:10.022-03:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/videogames/dinasty-vanderbilt/dinasty-com-vanderbilt-ncaa-football-14-cfb-revamped/","dgPassFrontmatter":true,"created":"2025-12-22T13:29:38.609-03:00","updated":"2025-12-22T15:05:21.125-03:00"}
 ---
 
 tags: [[Tópicos/Videogames\|Videogames]]
+
 
 
 ![Pasted image 20251222133241.png](/img/user/imgs/Pasted%20image%2020251222133241.png)
