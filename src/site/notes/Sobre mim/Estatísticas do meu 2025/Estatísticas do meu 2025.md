@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/sobre-mim/estatisticas-do-meu-2025/estatisticas-do-meu-2025/","dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.767-03:00","updated":"2025-12-18T14:31:48.225-03:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/sobre-mim/estatisticas-do-meu-2025/estatisticas-do-meu-2025/","dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.767-03:00","updated":"2025-12-22T13:27:19.660-03:00"}
 ---
 
 tags: [[Tópicos/Sobre mim\|Sobre mim]]
@@ -43,9 +43,9 @@ Não vou falar de todos, pois estão na lista, mas vou listar meus 5 preferidos 
 
 Esse ano voltei a consumir bastante filmes, como joguei muitos videogames esse ano, sempre que dava uma desanimada de jogar eu começava a assistir muitos filmes e séries. Teve um mês nesse ano em que quase consegui ver 1 filme por dia, mas não completei essa proeza, quem sabe um dia cisme de fazer isso propositalmente e consiga.
 
-Assisti **53 filmes** esse ano, conheci muitos clássicos que nunca tinha visto e revisitei muitos filmes.
+Assisti **60 filmes** esse ano, conheci muitos clássicos que nunca tinha visto e revisitei muitos filmes.
 
-De todos os 53, assim como fiz na parte de videogames, vou listar os cinco que mais me pegaram, vou citar só filmes que vi pela primeira vez, pra ser mais "justo".
+De todos os 60, assim como fiz na parte de videogames, vou listar os cinco que mais me pegaram, vou citar só filmes que vi pela primeira vez, pra ser mais "justo".
 
 - [**Waves**](https://letterboxd.com/peixotoooo/film/waves-2019/1/) => Esse filme foi o meu primeiro log do ano no letterboxd, na verdade foi o que me fez criar uma conta nesse site, não ironicamente eu só assisti esse filme porque foi numa época que eu tava viciado em frank ocean e me disseram: "ei, você sabia que esse filme tem várias músicas do frank ocean?". Eu fiquei tipo "não diga mais nada". O filme é muito bom, eu gosto muito da história, mas principalmente do visual dele com os cuidados com os detalhes e obviamente as muitas músicas boas que tem nele, inclusive não só Frank Ocean mas também Kendrick Lamar e ASAP Rocky. O filme é uma montanha russa emocional e vale muito a pena assistir.
 

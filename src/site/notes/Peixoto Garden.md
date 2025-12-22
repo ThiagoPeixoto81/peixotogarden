@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.752-03:00","updated":"2025-12-18T12:56:04.657-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.752-03:00","updated":"2025-12-22T14:10:38.051-03:00"}
 ---
 
 ![logo.png](/img/user/imgs/logo.png)
@@ -35,7 +35,7 @@ Sinta-se a vontade para explorar todas as notas, isso não é algo performativo,
 
 ## Posts Favoritos
 
-[[Videogames/Dinasty - Vanderbilt/Primeira vez jogando o modo dinasty do NCAA Football 14 com Vanderbilt - SEASON 1 e 2\|Primeira vez jogando o modo dinasty do NCAA Football 14 com Vanderbilt - SEASON 1 e 2]]
+[[Videogames/Dinasty - Vanderbilt/Dinasty Com Vanderbilt - NCAA FOOTBALL 14 (CFB REVAMPED)\|Dinasty Com Vanderbilt - NCAA FOOTBALL 14 (CFB REVAMPED)]]
 
 [[Sobre mim/Estatísticas do meu 2025/Estatísticas do meu 2025\|Estatísticas do meu 2025]]
 
