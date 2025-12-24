@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/videogames/dinasty-vanderbilt/season-1-e-2/","dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.770-03:00","updated":"2025-12-22T13:59:41.270-03:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/videogames/dinasty-vanderbilt/season-1-e-2/","dgPassFrontmatter":true,"created":"2025-12-23T17:11:42.370-03:00","updated":"2025-12-23T23:35:39.865-03:00"}
 ---
 
 tags: [[Tópicos/Videogames\|Videogames]]

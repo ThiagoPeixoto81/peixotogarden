@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/videogames/dinasty-vanderbilt/dinasty-com-vanderbilt-ncaa-football-14-cfb-revamped/","dgPassFrontmatter":true,"created":"2025-12-22T13:29:38.609-03:00","updated":"2025-12-22T15:05:21.125-03:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/videogames/dinasty-vanderbilt/dinasty-com-vanderbilt-ncaa-football-14-cfb-revamped/","dgPassFrontmatter":true,"created":"2025-12-23T17:11:42.370-03:00","updated":"2025-12-24T01:42:26.870-03:00"}
 ---
 
 tags: [[Tópicos/Videogames\|Videogames]]
@@ -10,9 +10,19 @@ tags: [[Tópicos/Videogames\|Videogames]]
 
 ## **Seasons**
 
-[[Videogames/Dinasty - Vanderbilt/SEASON 1 e 2\|SEASON 1 e 2]]
+**[[Videogames/Dinasty - Vanderbilt/SEASON 1 e 2\|SEASON 1 e 2]]**
 
-[[Videogames/Dinasty - Vanderbilt/SEASON 3\|SEASON 3]]
+**[[Videogames/Dinasty - Vanderbilt/SEASON 3\|SEASON 3]]**
+
+**[[Videogames/Dinasty - Vanderbilt/SEASON 4\|SEASON 4]]**
+
+## **Estatísticas do Dinasty**
+
+**[[Videogames/Dinasty - Vanderbilt/CONFERENCE CHAMPIONS\|CONFERENCE CHAMPIONS]]**
+
+**[[Videogames/Dinasty - Vanderbilt/HEISMAN WINNERS\|HEISMAN WINNERS]]**
+
+**[[Videogames/Dinasty - Vanderbilt/JOGADORES NOSSOS QUE FORAM PARA A NFL\|JOGADORES NOSSOS QUE FORAM PARA A NFL]]**
 
 ## **Conhecendo Vanderbilt.**
 
