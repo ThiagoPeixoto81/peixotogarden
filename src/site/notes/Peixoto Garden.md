@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.752-03:00","updated":"2025-12-22T14:10:38.051-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-12-23T17:11:42.354-03:00","updated":"2025-12-24T04:21:21.600-03:00"}
 ---
 
 ![logo.png](/img/user/imgs/logo.png)
@@ -26,7 +26,7 @@ Sinta-se a vontade para explorar todas as notas, isso não é algo performativo,
 
 ## Últimos Posts
 
-[[Filmes e séries/Peacemaker/Eu não consigo tirar Peacemaker da cabeça.\|Eu não consigo tirar Peacemaker da cabeça.]]
+**Temporada 3 - [[Videogames/Dinasty - Vanderbilt/Dinasty Com Vanderbilt - NCAA FOOTBALL 14 (CFB REVAMPED)\|Dinasty Com Vanderbilt - NCAA FOOTBALL 14 (CFB REVAMPED)]]**
 
 [[Projetos/Digital Garden/O que é um digital garden e porque acho daora a ideia de ter um.\|O que é um digital garden e porque acho daora a ideia de ter um.]]
 
