@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/filmes-e-series/peacemaker/eu-nao-consigo-tirar-peacemaker-da-cabeca/","dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.751-03:00","updated":"2025-12-18T13:30:09.052-03:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/filmes-e-series/peacemaker/eu-nao-consigo-tirar-peacemaker-da-cabeca/","dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.751-03:00","updated":"2026-01-08T15:42:09.190-03:00"}
 ---
 
 tags: [[Tópicos/Filmes e Séries\|Filmes e Séries]]
 
 É até estranho o quanto de vezes que eu penso na [abertura da segunda temporada de Peacemaker](https://www.youtube.com/watch?v=xS11-GIemXY) durante a semana, não sei, algo sobre essa abertura, sobre essa série não me deixa descansar, não me deixa largar dela.
 
-## Sem querer crinjar, mas eu me enxergo no Peacemaker mais do que eu gostaria.
+## Eu me enxergo no Peacemaker mais do que eu gostaria.
 
 Desde os primeiros momentos da série, nós somos introduzidos a como a visão do Chris, o Peacemaker, é construída, ele é um homem que acredita que pode trazer a paz para o mundo, o  grande problema é que ele só sabe fazer isso através da violência, não muito tarde na série entendemos que essa visão vem de seu pai, que o criou dessa forma, apesar de seu pai não ter ideias de ajudar o mundo e sim segregar as pessoas, tanto que um dos temas da série é essa luta de Chris contra os ideais que foram implantados pelo seu pai durante toda sua vida.
 
