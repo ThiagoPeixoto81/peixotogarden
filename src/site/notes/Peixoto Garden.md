@@ -1,16 +1,17 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.752-03:00","updated":"2026-01-09T12:51:18.758-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.752-03:00","updated":"2026-01-09T12:58:57.888-03:00"}
 ---
 
 <div style= "display: flex; align-items: center; gap: 10px">
-  <img src="logo.png" width="50px" height="50px"/>
-  <h1 style= "font-size: 40px">PEIXOTO GARDEN</h1>
+  <img src="logo.png" width="60px" height="60px"/>
+  <p style= "font-size: 40px; color: white; font-weight: bold">PEIXOTO GARDEN</p>
 </div>
 
 > [!quote] **"*Summer's not as long as it used to be, Everyday counts like crazy"***
 
 
 Escrevo coisas sobre coisas no meu tempo livre, fique a vontade para ler tudo!
+
 Se você tem interesse em saber as coisas que estou vendo e trabalhando no momento, visite essa [[Sobre mim/No que estou focado agora/No que estou focado agora\|nota]]
 
 ## Tópicos
