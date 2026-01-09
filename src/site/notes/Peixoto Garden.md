@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.752-03:00","updated":"2026-01-09T12:47:34.137-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.752-03:00","updated":"2026-01-09T12:51:18.758-03:00"}
 ---
 
 <div style= "display: flex; align-items: center; gap: 10px">
-  <img src="imgs/logo.png" width="50px" height="50px"/>
+  <img src="logo.png" width="50px" height="50px"/>
   <h1 style= "font-size: 40px">PEIXOTO GARDEN</h1>
 </div>
 
-> [!custom-quote-type] **"*Summer's not as long as it used to be, Everyday counts like crazy"***
+> [!quote] **"*Summer's not as long as it used to be, Everyday counts like crazy"***
 
 
 Escrevo coisas sobre coisas no meu tempo livre, fique a vontade para ler tudo!
