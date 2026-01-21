@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-home":null,"aliases":["nota"],"permalink":"/sobre-mim/no-que-estou-focado-agora/no-que-estou-focado-agora/","dgPassFrontmatter":true,"created":"2026-01-09T12:31:38.226-03:00","updated":"2026-01-09T12:46:40.666-03:00"}
+{"dg-publish":true,"dg-home":null,"aliases":["nota","no que estou focado agora"],"permalink":"/sobre-mim/no-que-estou-focado-agora/no-que-estou-focado-agora/","dgPassFrontmatter":true,"created":"2026-01-09T12:31:38.226-03:00","updated":"2026-01-21T13:22:21.799-03:00"}
 ---
 
 ## Projeto que estou trabalhando
 
-Janeiro é um mês lento, atualmente estou pintando meu apartamento e mudando algumas coisas de lugar.
+Estou aprendendo a tocar guitarra.
 
 ## Série que estou vendo
 
@@ -19,9 +19,8 @@ Janeiro é um mês lento, atualmente estou pintando meu apartamento e mudando al
 ## Jogos que estou jogando
 
 <div style= "display: flex; align-items: center; gap: 20px">
-  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co25ar.jpg" width="30%" height="auto"/>
-  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1zhr.jpg" width="30%" height="auto"/>
-  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3koi.jpg" width="30%" height="auto"/>
+  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coaih8.jpg" width="30%" height="auto"/>
+<img src="https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3wb2.jpg" width="30%" height="auto"/>
 </div>
 
 
