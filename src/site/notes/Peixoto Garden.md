@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.752-03:00","updated":"2026-01-21T13:27:04.428-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.752-03:00","updated":"2026-01-22T12:59:57.364-03:00"}
 ---
 
 <div style= "display: flex; align-items: center; gap: 20px">
@@ -14,24 +14,12 @@ Escrevo coisas sobre coisas no meu tempo livre, fique a vontade para ler tudo!
 
 Se você tem interesse em saber sobre as coisas que estou vendo e trabalhando no momento, fique a vontade para saber [[Sobre mim/No que estou focado agora/No que estou focado agora\|no que estou focado agora]]
 
-## Tópicos
-
-[[Tópicos/Dicionário\|Dicionário]]
-
-[[Tópicos/Filmes e Séries\|Filmes e Séries]]
-
-[[Tópicos/Projetos\|Projetos]]
-
-[[Tópicos/Sobre mim\|Sobre mim]]
-
-[[Tópicos/Videogames\|Videogames]]
-
 
 ## Últimos Posts
 
-[[Videogames/NCAA FOOTBALL 14/O que faz do NCAA FOOTBALL 14 um jogo de esporte diferente da maioria.\|O que faz do NCAA FOOTBALL 14 um jogo de esporte diferente da maioria.]]
+[[Esportes/NFL/Como o país mais capitalista desenvolveu a liga mais comunista do mundo\|Como o país mais capitalista desenvolveu a liga mais comunista do mundo]]
 
-[[Videogames/Dinasty - Vanderbilt/Dinasty Com Vanderbilt - NCAA FOOTBALL 14 (CFB REVAMPED)\|Temporada 3]]
+[[Videogames/NCAA FOOTBALL 14/O que faz do NCAA FOOTBALL 14 um jogo de esporte diferente da maioria.\|O que faz do NCAA FOOTBALL 14 um jogo de esporte diferente da maioria.]]
 
 [[Projetos/Digital Garden/O que é um digital garden e porque acho daora a ideia de ter um.\|O que é um digital garden e porque acho daora a ideia de ter um.]]
 
@@ -45,6 +33,21 @@ Se você tem interesse em saber sobre as coisas que estou vendo e trabalhando no
 [[Sobre mim/Estatísticas do meu 2025/Estatísticas do meu 2025\|Estatísticas do meu 2025]]
 
 [[Videogames/NCAA FOOTBALL 14/O que faz do NCAA FOOTBALL 14 um jogo de esporte diferente da maioria.\|O que faz do NCAA FOOTBALL 14 um jogo de esporte diferente da maioria.]]
+
+
+## Tópicos
+
+[[Tópicos/Dicionário\|Dicionário]]
+
+[[Tópicos/Esportes\|Esportes]]
+
+[[Tópicos/Filmes e Séries\|Filmes e Séries]]
+
+[[Tópicos/Projetos\|Projetos]]
+
+[[Tópicos/Sobre mim\|Sobre mim]]
+
+[[Tópicos/Videogames\|Videogames]]
 
 
 ## Outros lugares em que você pode me achar
