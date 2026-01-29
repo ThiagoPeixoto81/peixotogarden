@@ -1,27 +1,30 @@
 ---
-{"dg-publish":true,"dg-home":null,"aliases":["nota","no que estou focado agora"],"permalink":"/sobre-mim/no-que-estou-focado-agora/no-que-estou-focado-agora/","dgPassFrontmatter":true,"created":"2026-01-09T12:31:38.226-03:00","updated":"2026-01-29T12:34:27.452-03:00"}
+{"dg-publish":true,"dg-home":null,"aliases":["nota","no que estou focado agora"],"permalink":"/sobre-mim/no-que-estou-focado-agora/no-que-estou-focado-agora/","dgPassFrontmatter":true,"created":"2026-01-09T12:31:38.226-03:00","updated":"2026-01-29T12:42:39.882-03:00"}
 ---
 
-## Projeto que estou trabalhando
+## Projetos que estou trabalhando
 
 Estou aprendendo a tocar guitarra e estudando para um concurso.
 
 ## Série que estou vendo
 
-<div style= "display: flex; align-items: center; gap: 10px">
+<div style= "display: flex; align-items: center; gap: 20px; flex-wrap: wrap">
   <img src="https://image.tmdb.org/t/p/original/30erzlzIOtOK3k3T3BAl1GiVMP1.jpg" width="30%" height="auto"/>
 </div>
 
-## Livro que estou lendo
+## Livros/HQs lidos esse mês (01/26)
 
-<div style= "display: flex; align-items: center; gap: 10px">
+<div style= "display: flex; align-items: center; gap: 20px; flex-wrap: wrap">
   <img src="https://static.skeelo.com/remote/320/480/100/https://skoob.s3.amazonaws.com/livros/1751/MEMORIAS_DO_SUBSOLO_16343377771751SK-V11634337787B.jpg" width="30%" height="auto"/>
+
+ <img src="https://static.skeelo.com/remote/320/480/100/https://skoob.s3.amazonaws.com/livros/211586/INVENCIVEL__VOLUME_1_1325736977B.jpg" width="30%" height="auto"/>
+ 
 </div>
 
 
 ## Jogos zerados esse mês (01/26)
 
-<div style= "display: flex; align-items: center; gap: 20px">
+<div style= "display: flex; align-items: center; gap: 20px; flex-wrap: wrap">
   <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/coag64.jpg" width="30%" height="auto"/>
 </div>
 
