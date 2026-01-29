@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.752-03:00","updated":"2026-01-22T12:59:57.364-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.752-03:00","updated":"2026-01-29T12:38:28.921-03:00"}
 ---
 
 <div style= "display: flex; align-items: center; gap: 20px">
@@ -59,3 +59,5 @@ Se você tem interesse em saber sobre as coisas que estou vendo e trabalhando no
 [Letterboxd](https://letterboxd.com/peixotoooo/)
 
 [Github](https://github.com/ThiagoPeixoto81)
+
+[Skoob](https://www.skoob.com.br/pt/profile/68f3aa0dfea080cb97394855)
