@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.752-03:00","updated":"2026-01-29T12:38:28.921-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.752-03:00","updated":"2026-02-11T15:46:39.519-03:00"}
 ---
 
 <div style= "display: flex; align-items: center; gap: 20px">
@@ -17,6 +17,8 @@ Se você tem interesse em saber sobre as coisas que estou vendo e trabalhando no
 
 ## Últimos Posts
 
+[[Literatura/O meu subsolo\|O meu subsolo]]
+
 [[Esportes/NFL/Como o país mais capitalista desenvolveu a liga mais comunista do mundo\|Como o país mais capitalista desenvolveu a liga mais comunista do mundo]]
 
 [[Videogames/NCAA FOOTBALL 14/O que faz do NCAA FOOTBALL 14 um jogo de esporte diferente da maioria.\|O que faz do NCAA FOOTBALL 14 um jogo de esporte diferente da maioria.]]
@@ -25,15 +27,15 @@ Se você tem interesse em saber sobre as coisas que estou vendo e trabalhando no
 
 [[Sobre mim/Estatísticas do meu 2025/Estatísticas do meu 2025\|Estatísticas do meu 2025]]
 
-
 ## Posts Favoritos
 
-[[Videogames/Dinasty - Vanderbilt/Dinasty Com Vanderbilt - NCAA FOOTBALL 14 (CFB REVAMPED)\|Dinasty Com Vanderbilt - NCAA FOOTBALL 14 (CFB REVAMPED)]]
+[[Esportes/NFL/Como o país mais capitalista desenvolveu a liga mais comunista do mundo\|Como o país mais capitalista desenvolveu a liga mais comunista do mundo]]
 
 [[Sobre mim/Estatísticas do meu 2025/Estatísticas do meu 2025\|Estatísticas do meu 2025]]
 
 [[Videogames/NCAA FOOTBALL 14/O que faz do NCAA FOOTBALL 14 um jogo de esporte diferente da maioria.\|O que faz do NCAA FOOTBALL 14 um jogo de esporte diferente da maioria.]]
 
+[[Projetos/Digital Garden/O que é um digital garden e porque acho daora a ideia de ter um.\|O que é um digital garden e porque acho daora a ideia de ter um.]]
 
 ## Tópicos
 
@@ -42,6 +44,8 @@ Se você tem interesse em saber sobre as coisas que estou vendo e trabalhando no
 [[Tópicos/Esportes\|Esportes]]
 
 [[Tópicos/Filmes e Séries\|Filmes e Séries]]
+
+[[Tópicos/Literatura\|Literatura]]
 
 [[Tópicos/Projetos\|Projetos]]
 
