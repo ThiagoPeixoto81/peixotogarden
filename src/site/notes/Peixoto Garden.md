@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.752-03:00","updated":"2026-02-11T15:46:39.519-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-12-17T13:01:48.752-03:00","updated":"2026-02-24T13:29:02.644-03:00"}
 ---
 
 <div style= "display: flex; align-items: center; gap: 20px">
@@ -14,8 +14,9 @@ Escrevo coisas sobre coisas no meu tempo livre, fique a vontade para ler tudo!
 
 Se você tem interesse em saber sobre as coisas que estou vendo e trabalhando no momento, fique a vontade para saber [[Sobre mim/No que estou focado agora/No que estou focado agora\|no que estou focado agora]]
 
-
 ## Últimos Posts
+
+[[Lifestyle/Eu entendo o digital, mas o analógico é bem mais daora/Eu entendo o digital, mas o analógico é bem mais daora\|Eu entendo o digital, mas o analógico é bem mais daora]]
 
 [[Literatura/O meu subsolo\|O meu subsolo]]
 
@@ -24,8 +25,6 @@ Se você tem interesse em saber sobre as coisas que estou vendo e trabalhando no
 [[Videogames/NCAA FOOTBALL 14/O que faz do NCAA FOOTBALL 14 um jogo de esporte diferente da maioria.\|O que faz do NCAA FOOTBALL 14 um jogo de esporte diferente da maioria.]]
 
 [[Projetos/Digital Garden/O que é um digital garden e porque acho daora a ideia de ter um.\|O que é um digital garden e porque acho daora a ideia de ter um.]]
-
-[[Sobre mim/Estatísticas do meu 2025/Estatísticas do meu 2025\|Estatísticas do meu 2025]]
 
 ## Posts Favoritos
 
@@ -46,6 +45,8 @@ Se você tem interesse em saber sobre as coisas que estou vendo e trabalhando no
 [[Tópicos/Filmes e Séries\|Filmes e Séries]]
 
 [[Tópicos/Literatura\|Literatura]]
+
+[[Tópicos/Lifestyle\|Lifestyle]]
 
 [[Tópicos/Projetos\|Projetos]]
 
