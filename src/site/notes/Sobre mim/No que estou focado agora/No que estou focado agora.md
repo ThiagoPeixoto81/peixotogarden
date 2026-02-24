@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"aliases":["nota","no que estou focado agora"],"permalink":"/sobre-mim/no-que-estou-focado-agora/no-que-estou-focado-agora/","dgPassFrontmatter":true,"created":"2026-01-09T12:31:38.226-03:00","updated":"2026-02-11T15:40:51.816-03:00"}
+{"dg-publish":true,"dg-home":null,"aliases":["nota","no que estou focado agora"],"permalink":"/sobre-mim/no-que-estou-focado-agora/no-que-estou-focado-agora/","dgPassFrontmatter":true,"created":"2026-01-09T12:31:38.226-03:00","updated":"2026-02-24T12:58:35.284-03:00"}
 ---
 
 ## Projetos que estou trabalhando
@@ -38,6 +38,12 @@ Nenhum :(
 <img src="https://a.ltrbxd.com/resized/film-poster/4/6/1/9/2/46192-driven-0-1000-0-1500-crop.jpg?v=c9ef2bc801" width="30%" height="auto"/>
 <img src="https://a.ltrbxd.com/resized/film-poster/1/3/1/8/3/6/131836-recife-frio-0-1000-0-1500-crop.jpg?v=d7b4728768" width="30%" height="auto"/>
 <img src="https://a.ltrbxd.com/resized/film-poster/4/7/7/7/6/47776-superbad-0-1000-0-1500-crop.jpg?v=b43686efcb" width="30%" height="auto"/>
+
+<img src="https://a.ltrbxd.com/resized/film-poster/1/6/0/3/7/1/160371-the-peanuts-movie-0-1000-0-1500-crop.jpg?v=316d96fe06" width="30%" height="auto"/>
+
+<img src="https://a.ltrbxd.com/resized/film-poster/2/7/2/8/4/27284-the-naked-gun-0-1000-0-1500-crop.jpg?v=7f848fb394" width="30%" height="auto"/>
+
+<img src="https://a.ltrbxd.com/resized/sm/upload/ju/sr/4r/t3/c5AyWNWooMGkJXlqLwmPQCjUwHt-0-1000-0-1500-crop.jpg?v=b19f368866" width="30%" height="auto"/>
 
  
 </div>
