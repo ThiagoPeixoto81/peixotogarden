@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2026-04-10T12:45:24.013-03:00","updated":"2026-04-10T14:22:45.939-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2026-04-10T12:45:24.013-03:00","updated":"2026-04-10T14:26:01.259-03:00"}
 ---
 
 <div style= "display: flex; align-items: center; gap: 20px">
@@ -7,7 +7,7 @@
   <p style= "font-size: 20px; color: white; font-weight: bold">PEIXOTO GARDEN</p>
 </div>
 
-> [!quote] **"*"Come as you are, as you were, as i want you to be"***
+> [!quote] ***"Come as you are, as you were, as i want you to be"***
 
 
 Escrevo coisas sobre coisas no meu tempo livre, fique a vontade para ler tudo!
