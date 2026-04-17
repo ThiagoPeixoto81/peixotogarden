@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2026-04-10T12:45:24.013-03:00","updated":"2026-04-10T14:26:01.259-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2026-04-10T12:45:24.013-03:00","updated":"2026-04-16T21:16:13.322-03:00"}
 ---
 
 <div style= "display: flex; align-items: center; gap: 20px">
@@ -16,6 +16,8 @@ Se você tem interesse em saber sobre as coisas que estou vendo e trabalhando no
 
 ## Últimos Posts
 
+[[Música/Minha evolução na guitarra\|Minha evolução na guitarra]]
+
 [[Filmes e séries/Charlie Brown/Charlie Brown\|"Mas você notou algo, Charlie Brown? O mundo não terminou."]]
 
 [[Lifestyle/Eu entendo o digital, mas o analógico é bem mais daora/Eu entendo o digital, mas o analógico é bem mais daora\|Eu entendo o digital, mas o analógico é bem mais daora]]
@@ -23,9 +25,6 @@ Se você tem interesse em saber sobre as coisas que estou vendo e trabalhando no
 [[Literatura/O meu subsolo\|O meu subsolo]]
 
 [[Esportes/NFL/Como o país mais capitalista desenvolveu a liga mais comunista do mundo\|Como o país mais capitalista desenvolveu a liga mais comunista do mundo]]
-
-[[Videogames/NCAA FOOTBALL 14/O que faz do NCAA FOOTBALL 14 um jogo de esporte diferente da maioria.\|O que faz do NCAA FOOTBALL 14 um jogo de esporte diferente da maioria.]]
-
 
 ## Posts Favoritos
 
@@ -49,6 +48,8 @@ Se você tem interesse em saber sobre as coisas que estou vendo e trabalhando no
 [[Tópicos/Literatura\|Literatura]]
 
 [[Tópicos/Lifestyle\|Lifestyle]]
+
+[[Tópicos/Música\|Música]]
 
 [[Tópicos/Projetos\|Projetos]]
 
