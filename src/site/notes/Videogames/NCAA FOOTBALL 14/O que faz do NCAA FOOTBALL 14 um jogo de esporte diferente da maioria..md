@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/videogames/ncaa-football-14/o-que-faz-do-ncaa-football-14-um-jogo-de-esporte-diferente-da-maioria/","dgPassFrontmatter":true,"created":"2025-12-18T14:14:08.645-03:00","updated":"2026-01-08T15:33:17.853-03:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/videogames/ncaa-football-14/o-que-faz-do-ncaa-football-14-um-jogo-de-esporte-diferente-da-maioria/","dgPassFrontmatter":true,"created":"2026-07-29T13:00:06.372-03:00","updated":"2026-07-29T13:25:49.163-03:00"}
 ---
 
 tags: [[Tópicos/Videogames\|Videogames]]
@@ -12,7 +12,7 @@ Mesmo com essa história bonita e minha grande vontade de jogar o 25, eu não po
 
 ## **Prós e Contras da gameplay**
 
-O primeiro aspecto que sempre gosto de analisar em um jogo de esporte é a sua gameplay, tem jogos que, apesar de terem muitas features boas em seus modos a gameplay, deixam muito a desejar, é o que ocorre comigo com os Fifas mais novos, gosto muito das features do modo carreira, porém a gameplay é péssima.
+O primeiro aspecto que sempre gosto de analisar em um jogo de esporte é a sua gameplay, tem jogos que, apesar de terem muitas features boas em seus modos, a gameplay deixa muito a desejar, é o que ocorre comigo com os Fifas mais novos, gosto muito das features do modo carreira, porém a gameplay é péssima.
 
 Eu já joguei bastante Madden na minha vida, e uma coisa que nunca tive vontade foi de me aprofundar na gameplay do jogo, mas no caso do NCAA Football 14 foi **diferente**, o jogo te recompensa muito em aprender a joga-lo, aprender a executar seu jogo da maneira correta, sinto que é tudo mais sensitivo. Cada passe você tem que tomar cuidado com os defensores, eu sou um usuário forte de bullet pass nos maddens, mas pela primeira vez em um jogo de futebol americano eu aprendi a usar passes diferentes para cada situação, em rotas mais profundas um lob pass é melhor, em outras situações um bullet pass é melhor e assim vai, e outro ponto que me deixou muito satisfeito nesse jogo é as corridas, você nunca sabe se em uma partida o jogo corrido vai funcionar bem ou não, tudo isso vai de acordo com diversos elementos daquela partida em questão, isso torna cada jogo único, cada estratégia diferente.
 
@@ -52,7 +52,7 @@ Para fazer um bom recrutamento existe toda um técnica, vou falar a que eu gosto
 
 Isso acabou virando um tutorial sem querer, mas eu queria mostrar o quão profundo pode ser esse sistema de recrutamento, apesar de ser gameplay de menu, você tem que ter estratégia para recrutar bem e não acabar com um time ruim.
 
-Então por quê **o sistema de recrutamento é um grind constante?** Pela natureza própria do college football, se trata de futebol **universitário**, então todo ano você perde jogadores, seja porque eles **se formam ou porquê eles vão se declarar para o draft da NFL** e isso torna essencial que você recrute bem, porque se você não fizer pode ser que seu time fique fragmentado em diversas áreas. Esse sistema é tão divertido e diferente porque você nunca pode passar uma temporada pensando em não recrutar bem, não é igual Fifa que em 1-2 temporadas você compra um time apelão e nunca mais precisa contratar ninguém, no dinasty você é tirado dessa posição e obrigado a ir atrás de bons jogadores para dar continuidade a sua equipe.
+Então por quê **o sistema de recrutamento é um grind constante?** Pela natureza própria do college football, se trata de futebol **universitário**, então todo ano você perde jogadores, seja porque eles **se formam ou porquê eles vão se declarar para o draft da NFL** e isso torna essencial que você recrute bem, porque se você não o fizer pode ser que seu time fique fragmentado em diversas áreas. Esse sistema é tão divertido e diferente porque você nunca pode passar uma temporada pensando em não recrutar bem, não é igual Fifa que em 1-2 temporadas você compra um time apelão e nunca mais precisa contratar ninguém, no dinasty você é tirado dessa posição e obrigado a ir atrás de bons jogadores para dar continuidade a sua equipe.
 
 Além do fator estratégico, o fator gameplay também é afetado, por exemplo se você tem um QB que é **Scrambler**, ou seja, que é rápido e corre bem com a bola e o único QB que você conseguiu recrutar para herdar a vaga dele é um **Pocket Passer**, que geralmente são pesados mas passam a bola melhor, você tem que mudar completamente seu playbook para se encaixar melhor com o seu QB, e até nas chamadas de jogada mesmo, vai ter anos que seus TE vão ser melhores que seus receivers então a famosa "bola de segurança" vai mudar e há diversos outros casos em que a constante mudança de equipe vai trazer novos cenários e tramas para seu dinasty, por isso que acho tão difícil enjoar desse modo e o acho tão incrível. 
 
