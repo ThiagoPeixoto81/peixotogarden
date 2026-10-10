@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":null,"aliases":["hermes"],"permalink":"/projetos/hermes/como-comprar-dois-thinkpads-antigos-resultou-em-eu-criar-um-servidor-caseiro-conhecam-o-hermes/","dgPassFrontmatter":true,"created":"2026-10-10T14:58:28.763-03:00","updated":"2026-10-10T16:00:13.057-03:00"}
+{"dg-publish":true,"dg-home":null,"aliases":["hermes"],"permalink":"/projetos/hermes/como-comprar-dois-thinkpads-antigos-resultou-em-eu-criar-um-servidor-caseiro-conhecam-o-hermes/","dgPassFrontmatter":true,"created":"2026-10-10T14:58:28.763-03:00","updated":"2026-10-10T16:26:50.236-03:00"}
 ---
 
-Tudo começou quando em um belo dia acabei caindo em um vídeo do youtube onde o tema era sobre esses notebooks que tiveram sua criação no anos 90 e que tinham por objetivo serem destinados para uso empresarial, eles eram modulares e robustos, o que facilitava seu uso e manutenção no ambiente de trabalho. O nome desses notebooks era **Thinkpad** e desde que vi esse vídeo acabei caindo num *rabbit hole* e comecei a pesquisar sobre diversas coisas relacionadas a esses notebooks, não sei o que mais me intrigava, se era a estética de alguns, principalmente da geração do x220 para trás ou se era como eles eram bem construídos e tão diferentes do que vemos hoje no mundo do hardware onde **cada vez mais recebemos menos.** Só sei que os thinkpads me pegaram e eu não pude escapar, eu **PRECISAVA** ter um.
+Tudo começou quando em um belo dia, acabei caindo em um vídeo do youtube onde o tema era sobre esses notebooks que tiveram sua criação no anos 90 e que tinham por objetivo serem destinados para uso empresarial, eles eram modulares e robustos, o que facilitava seu uso e manutenção no ambiente de trabalho. O nome desses notebooks era **Thinkpad** e desde que vi esse vídeo acabei caindo num *rabbit hole* e comecei a pesquisar sobre diversas coisas relacionadas a esses notebooks, não sei o que mais me intrigava, se era a estética de alguns, principalmente da geração do x220 para trás ou se era como eles eram bem construídos e tão diferentes do que vemos hoje no mundo do hardware onde **cada vez mais recebemos menos.** Só sei que os thinkpads me pegaram e eu não pude escapar, eu **PRECISAVA** ter um.
 
 A escolha que eu fiz foi baseada em algumas coisas, a primeira é, talvez, memória afetiva, minha irmã teve um notebook, ou melhor, como chamavam na época: "netbooks", que eram notebooks pequenos que cabiam basicamente em qualquer mochila, eram leves e você podia levar para qualquer lugar, eu sempre quis ter um igual a esse, mas por motivos de basicamente serem raros hoje em dia, já que grande parte dos notebooks que existem hoje são relativamente grandes, (grandes digo de 15-16 polegadas pra cima), nunca realizei esse desejo. 
 
@@ -16,7 +16,7 @@ Com isso em mente, o primeiro thinkpad que chamou minha atenção foi o **x220**
 
 Eu estava decidido que iria atrás de um x220, procurei, procurei e procurei e infelizmente não **obtive sucesso**, cruzei com vários x240, com varios T410, T420, porém a linha T foge um pouco dessa ideia de notebook pequeno, o que não me cativou tanto.
 
-A alternativa que encontrei para a falta de x220 no mercado foi ir atrás dos seus irmãos mais velhos, o **x200** ou **x201**, que esteticamente são bem parecidos com o x220, porém em desempenho são piores. Você pode me perguntar *"ah, mas Thiago, porque você não foi atrás de um x230 ou posterior?"*, simples, não fui porque a partir dessa geração do x230, o teclado nesse estilo de 7 linhas foi abandonado dando lugar ao teclado que chamam de chiclete.
+A alternativa que encontrei para a falta de x220 no mercado foi ir atrás dos seus irmãos mais velhos, o **x200** ou **x201**, que esteticamente são bem parecidos com o x220, porém em desempenho são piores. Você pode me perguntar *"ah, mas, Thiago, porque você não foi atrás de um x230 ou posterior?"*, simples, não fui porque a partir dessa geração do x230, o teclado nesse estilo de 7 linhas foi abandonado dando lugar ao teclado que chamam de chiclete.
 
 
 ![Pasted image 20261007200659.png](/img/user/imgs/Pasted%20image%2020261007200659.png)
@@ -71,7 +71,7 @@ Antes de formatar eu queria dizer que achei muito engraçado que o x201 é um pc
 Para instalar o Debian server, primeiro eu tinha que pegar o hd de 1tb, que estava no meu computador desktop, como citei anteriormente.
 
 Depois de feito isso, era hora de instalar o debian no notebook.
-Porém nessa parte já enfrentei problemas, eu estava enfrentando um erro na mídia de instalação, eu uso ventoy para guardar ISOs e formatar meus pcs, porém acredito que isso está dando conflito com o x200, então tentei instalar através do rufus e realmente o problema era o ventoy, após mudar o pen drive bootavel para o rufus tudo funcionou perfeitamente.
+Porém nessa parte já enfrentei problemas, eu estava enfrentando um erro na mídia de instalação, eu uso ventoy para guardar ISOs e formatar meus pcs, porém acredito que isso está dando conflito com o x200, então tentei instalar através do rufus e realmente o problema era o ventoy, após mudar o pendrive bootavel para o rufus tudo funcionou perfeitamente.
 
 Após fazer com que tudo funcionasse, foi hora de fazer a instalação, foi o processo padrão de instalar um sistema operacional, ou seja, escolher disco rígido, colocar nome, timezone, etc.
 
@@ -83,7 +83,7 @@ Depois de tudo isso, chegou a hora de escolher os softwares que eu vou usar, mar
 
 ##### Configurando o Debian Server
 
-Agora nós estamos oficialmente com o servidor, ele ainda está na planta mas ele existe. Primeira coisa que fiz foi vê se tinha algo para atualizar, então rodei um *apt update*, depois disso, rodei *ip addr*, para descobrir o ip do servidor.
+Agora nós estamos oficialmente com o servidor, ele ainda está na planta mas ele existe. Primeira coisa que fiz foi ver se tinha algo para atualizar, então rodei um *apt update*, depois disso, rodei *ip addr*, para descobrir o ip do servidor.
 
 ![PICT0077.jpg](/img/user/imgs/PICT0077.jpg)
 *(e ele disse "haja terminal, e houve terminal")*
@@ -120,7 +120,7 @@ Eu pensei que seria fácil, porém **DEMOROU MUITO**, o nextcloud estava dando p
 
 No fim, acabei tendo que desistir do nextcloud, ele estava ocupando 100% da CPU mesmo sem rodar nada nele, então, obviamente estava inutilizável. Portanto, decidi ir para uma alternativa mais leve, decidi usar o file browser, ele funciona igual o nextcloud mas tem menos funções, mas para meu objetivo ele serviu.
 
-Com o file browser configurado, era hora de configurar o tailscale, ele é que vai permiti a gente conectar no servidor de fora da nossa rede local, assim vou conseguir acessar o servidor quando estiver fora de casa e no caso do server de minecraft e outro serviços que quero compartilhar com pessoas, ele vai ser necessário para que elas consigam acessar algumas portas do meu servidor.
+Com o file browser configurado, era hora de configurar o tailscale, ele é que vai permitir a gente conectar no servidor de fora da nossa rede local, assim vou conseguir acessar o servidor quando estiver fora de casa e no caso do server de minecraft e outro serviços que quero compartilhar com pessoas, ele vai ser necessário para que elas consigam acessar algumas portas do meu servidor.
 
 Configurar o tailscale foi tranquilo também, sem problemas.
 
@@ -144,7 +144,7 @@ docker run -d \
   itzg/minecraft-server:java8
 ~~~
 
-Agora o que faltava era configurar para que através do tailscale meus amigos conseguissem jogar junto comigo, a grande questão aqui é que para isso tenho que adicionar eles a minha rede, porém isso significa que eles terão acesso a tudo do meu servidor, o que não é meu objetivo, portanto tive que configurar ACLs no meu tailscale, para que os meus amigos só consigam ver o server do mine ao se conectar a minha tailnet, os outros serviços fiquem inacessíveis.
+Agora o que faltava era configurar para que através do tailscale meus amigos conseguissem jogar junto comigo, a grande questão aqui é que para isso tenho que adicionar eles a minha rede, porém isso significa que eles terão acesso a tudo do meu servidor, o que não é meu objetivo, portanto tive que configurar ACLs no meu tailscale, para que os meus amigos só consigam ver o server do mine ao se conectar a minha tailnet, os outros serviços ficam inacessíveis.
 
 Para isso tive que reconfigurar as Grants, criei uma regra para que somente o owner, no caso eu, pudesse acessar todas as portas, já para todas as pessoas que entram após mim, eles automaticamente são limitados pelo tailscale e somente a porta do server é que fica acessivel para eles. Com isso, agora era hora de testar se o servidor aguentava muita gente. 
 
@@ -188,9 +188,9 @@ O grande ponto aqui foi como fiz para acessar, esses filmes e etc. Tudo o que pr
 
 O grande problema que eu enfrentei foi a questão de *transcoding*, que é basicamente quando para exibir uma mídia, o dispositivo faz a transcodificação dela, por exemplo um filme em 2k e .mkv, que através do *transcoding* fica em 1080p e .mp4 para rodar em um dispositivo especifico. Se meu servidor tivesse mais cpu e ram, esse processo seria simples, mas como estou usando um notebook de 2008, fazer esse processo no lado do servidor é muito custoso, quando tentei rodar filme com transcoding ativado, o jellyfin consumiu **80% da cpu** e muita ram.
 
-Para contornar isso tive que primeiramente desativar o transcoding no jellyfin, ou seja, se for depender de transcoding ele não vai exibir o filme/série, isso pode ser um problema, por exemplo, quando desativei o transcoding e fui tentar ver o filme que eu havia adicionado novamente,  o filme não carregava, ficava no loading infinito, mas eu descobri que para contornar isso, as pessoas usam front-ends específicos onde você conecta seu jellyfin e esse front-end que você usa fica responsável pela transcodificação, com isso, foi possivel rodar filmes e séries sem consumir nada da cpu e da ram é como se meu servidor só estivesse entregando o arquivo e o cliente que se vire para exibir esse arquivo. 
+Para contornar isso tive que primeiramente desativar o transcoding no jellyfin, ou seja, se for depender de transcoding ele não vai exibir o filme/série, isso pode ser um problema, por exemplo, quando desativei o transcoding e fui tentar ver o filme que eu havia adicionado novamente,  o filme não carregava, ficava no loading infinito, mas eu descobri que para contornar isso, as pessoas usam front-ends específicos onde você conecta seu jellyfin e esse front-end que você usa fica responsável pela transcodificação, com isso, foi possível rodar filmes e séries sem consumir nada da cpu e da ram, é como se meu servidor só estivesse entregando o arquivo e o cliente que se vire para exibir esse arquivo. 
 
-Para assistir filmes e séries no pc usei o programa proprio do jellyfin (Jellyfin Media Player) e no android usei findroid.
+Para assistir filmes e séries no pc usei o programa próprio do jellyfin (Jellyfin Media Player) e no android usei findroid.
 
 ![Pasted image 20261010040358.png|249](/img/user/imgs/Pasted%20image%2020261010040358.png)
 *(findroid)*
