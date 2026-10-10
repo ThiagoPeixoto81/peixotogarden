@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/musica/minha-evolucao-na-guitarra/","dgPassFrontmatter":true,"created":"2026-04-16T20:27:25.044-03:00","updated":"2026-04-16T21:16:20.512-03:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/musica/minha-evolucao-na-guitarra/","dgPassFrontmatter":true,"created":"2026-10-07T19:39:40.657-03:00","updated":"2026-10-10T15:35:54.318-03:00"}
 ---
 
 Comecei a tocar guitarra esse ano e decidi começar a anotar minha jornada.
@@ -16,11 +16,7 @@ Como comprei usada, eu tive alguns problemas com ela e tive que levar num luthie
 
 Minha telecaster galega com seus problemas de idade, nunca vou vender, mas também não quero usar para sempre.
 
-Depois da guitarra, eu comprei um cubo, porém ele não está na minha casa para tirar foto dele, mas é um **Borne Strike G30**
-
-![500](https://d1nl8byu0zovrm.cloudfront.net/Custom/Content/Products/10/26/1026_amplificador-borne-guitarra-strike-g30-6-5-pol-15w-rms-preto-pr-6706-strike-g30-preto_z3_638053409900998845.webp)
-
-Não é dos melhores, mas é muito bom e me satisfaz bastante.
+Depois da guitarra, eu comprei um cubo, porém ele não está na minha casa para tirar foto dele, mas é um **Borne Strike G30**, não é dos melhores, mas é muito bom e me satisfaz bastante.
 
 Passei um bom tempo tocando só com ele e o som da guitarra puro, um tempo depois comprei uma pedaleira, comprei uma **TANK G da MVAVE**
 
@@ -36,22 +32,18 @@ No primeiro mês de coisas mais técnicas, eu aprendi a tocar acordes abertos, a
 
 Indo para o segundo mês, vou tentar mais exercícios para melhorar minha velocidade e continuar aumentando minha gama de conhecimento teórico.
 
-Eu aprendi algumas músicas nesse primeiro mês, mas completa mesmo, só consegui tocar come as you are do nirvana
-
-![[come as you are first.mp3]]
-
-(pretendo regravar em breve com mais calma.)
+Eu aprendi algumas músicas nesse primeiro mês, mas completa mesmo, só consegui tocar come as you are do nirvana, eu iria mostrar, mas pretendo regravar em breve com mais calma
 
 Eu aprendi dois solos, de músicas do rex orange county, untitled e television/so far so good.
 
-![[0325.mp4]]
+![](https://youtu.be/GaZnQVDuSXY)
 
-![[0415.mp4]]
+
+![](https://www.youtube.com/watch?v=3KAKty3h7b4)
 
 Claramente nenhum dos dois está perfeito, porém é legal ver que to evoluindo.
 
-Eu tentei aprender do i wanna know, mas achei dificil, provavelmente a proxima música que vou aprender é seven nation army.
-
+Eu tentei aprender do i wanna know, mas achei difícil, provavelmente a próxima música que vou aprender é seven nation army.
 
 #### Segundo mês
 

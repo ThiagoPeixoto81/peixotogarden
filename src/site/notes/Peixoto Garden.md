@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2026-07-29T13:00:06.119-03:00","updated":"2026-07-29T13:08:16.484-03:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/peixoto-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2026-10-10T14:58:28.763-03:00","updated":"2026-10-10T15:37:17.347-03:00"}
 ---
 
 <div style= "display: flex; align-items: center; gap: 20px">
@@ -7,14 +7,16 @@
   <p style= "font-size: 20px; color: white; font-weight: bold">PEIXOTO GARDEN</p>
 </div>
 
-> [!quote] ***"got royalty inside my DNA"***
+> [!quote] ***"Não existem distâncias no meu novo mundo"***
 
 
-Escrevo coisas sobre coisas no meu tempo livre, fique a vontade para ler tudo!
+Escrevo notas sobre o que faço no meu tempo livre, coisas que estudei e consumi. Fique a vontade para ler tudo!
 
-Se você tem interesse em saber sobre as coisas que estou vendo e trabalhando no momento, fique a vontade para saber [[Sobre mim/No que estou focado agora/No que estou focado agora\|no que estou focado agora]]
+Se você tem interesse em saber sobre o que estou vendo e trabalhando no momento, fique a vontade para saber [[Sobre mim/No que estou focado agora/No que estou focado agora\|no que estou focado agora]].
 
 ## Últimos Posts
+
+[[Projetos/Hermes/Como comprar dois thinkpads antigos, resultou em eu criar um servidor caseiro. Conheçam o Hermes!\|Como comprar dois thinkpads antigos, resultou em eu criar um servidor caseiro. Conheçam o Hermes!]]
 
 [[Música/Minha evolução na guitarra\|Minha evolução na guitarra]]
 
@@ -22,11 +24,10 @@ Se você tem interesse em saber sobre as coisas que estou vendo e trabalhando no
 
 [[Lifestyle/Eu entendo o digital, mas o analógico é bem mais daora/Eu entendo o digital, mas o analógico é bem mais daora\|Eu entendo o digital, mas o analógico é bem mais daora]]
 
-[[Literatura/O meu subsolo\|O meu subsolo]]
-
-[[Esportes/NFL/Como o país mais capitalista desenvolveu a liga mais comunista do mundo\|Como o país mais capitalista desenvolveu a liga mais comunista do mundo]]
 
 ## Posts Favoritos
+
+[[Projetos/Hermes/Como comprar dois thinkpads antigos, resultou em eu criar um servidor caseiro. Conheçam o Hermes!\|Como comprar dois thinkpads antigos, resultou em eu criar um servidor caseiro. Conheçam o Hermes!]]
 
 [[Filmes e séries/Charlie Brown/Charlie Brown\|"Mas você notou algo, Charlie Brown? O mundo não terminou."]]
 
